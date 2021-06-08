@@ -13,4 +13,4 @@ d) Analysing the daily cases and deaths of Top5 countries.
 Analysis of Global cases and deaths was done using plotly while continent wide analysis was based on weekly trends for smoother observation of trends and better inferences.
 Cross-Country comparison was done on month-wise basis
 Wave Analysis: To understand the trends and patterns in the data more easily, used line plot, it shows the daily cases and deaths on average basis, along with confidence interval.
-Done for Top 3 countries impacted in terms of cases and deaths for more indepth analysis.
+Done for Top 5 countries impacted in terms of cases and deaths for more indepth analysis.
